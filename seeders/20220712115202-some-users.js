@@ -14,7 +14,7 @@ module.exports = {
           updatedAt: new Date(),
         },
         {
-          name: "Dan Abramov",
+          name: "Matias Abramov",
           email: "dan@redux.com",
           phone: 1234567,
           password: "test",
